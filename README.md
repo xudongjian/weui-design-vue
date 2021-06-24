@@ -38,13 +38,13 @@ Modern browsers and `Android 4.4+` `iOS 8.0+`
 
 ## Links
 
-- [Documentation](https://llkui.github.io/weui-design-vue/#/introduce)
-- [Changelog](https://llkui.github.io/weui-design-vue/#/changelog)
+- [Documentation](https://xudongjian.github.io/weui-design-vue/#/introduce)
+- [Changelog](https://xudongjian.github.io/weui-design-vue/#/changelog)
 
 ## Development
 
 ```bash
-$ git clone git@github.com:llkui/weui-design-vue.git
+$ git clone git@github.com:xudongjian/weui-design-vue.git
 $ cd weui-design-vue
 $ npm install
 $ npm run serve
@@ -52,9 +52,9 @@ $ npm run serve
 
 ## Mobile example
 
-![qrcode](https://llkui.github.io/weui-design-vue/qrcode.png)
+![qrcode](https://xudongjian.github.io/weui-design-vue/qrcode.png)
 
-[https://llkui.github.io/weui-design-vue-example](https://llkui.github.io/weui-design-vue-example)
+[https://xudongjian.github.io/weui-design-vue-example](https://xudongjian.github.io/weui-design-vue-example)
 
 ## LICENSE
 
